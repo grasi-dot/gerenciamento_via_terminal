@@ -6,7 +6,7 @@ color 0a
 cls
 echo.
 echo ====================
-echo        LOGiN
+echo        LOGIN
 echo ====================
 set /p user=Usuario: 
 if %user% == admin (goto:senha)
